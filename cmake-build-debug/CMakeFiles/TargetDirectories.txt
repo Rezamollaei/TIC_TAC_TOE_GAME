@@ -1,0 +1,3 @@
+/home/reza/Documents/C/TIC_TAC_TOE_GAME/cmake-build-debug/CMakeFiles/TIC_TAC_TOE_GAME.dir
+/home/reza/Documents/C/TIC_TAC_TOE_GAME/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reza/Documents/C/TIC_TAC_TOE_GAME/cmake-build-debug/CMakeFiles/rebuild_cache.dir
