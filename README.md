@@ -42,8 +42,6 @@ Typo in Winner Check: In the checkWinner function, the equality check (==) in sp
 
 No Replay Option: The game ends after one round, and there's no option to replay. You might want to ask the player if they want to play again at the end of the game.
 
-Seed Random Generator Once: The srand(time(0)) is called inside the computerMove function, but it's generally better to call it once, at the start of the program (in main()), rather than inside a function that might be called multiple times.
-
 Conclusion:
 This program provides a working version of a Tic-Tac-Toe game where a player competes against a randomly playing computer. It covers basic game mechanics like board drawing, player input, computer AI, and checks for both win and tie conditions.
 
